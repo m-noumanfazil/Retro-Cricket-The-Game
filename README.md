@@ -1,1 +1,1 @@
-# Retro-Cricket-The-Game
+To run Retro Cricket smoothly, ensure you download and install the Raylib Installer in this repo for seamless integration with the game. For development, Notepad++ serves as an efficient IDE, with a compiler integrated to support Raylib, making coding and testing a breeze. 🚀💻
